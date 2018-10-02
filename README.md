@@ -20,7 +20,7 @@ In general the approach is a fresh OMV install and a livecd with enabled `ssh`.
 
 ### basic setup
 
-Follow the documentation: https://wiki.openmediavault.org/index.php?title=Installation
+Follow the documentation: https://openmediavault.readthedocs.io/en/latest/installation/index.html
 
 - Set admin ui password
 - if needed change admin ui port
